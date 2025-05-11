@@ -6,6 +6,6 @@ public class Main {
     public static void main(String[] args) {
 
         System.out.println("Hola Mundo Java con Git");
-        System.out.println("Estoy es una prueba desde GitHub")
+        System.out.println("Estoy es una prueba desde GitHub");
     }
 }
